@@ -1,0 +1,346 @@
+learning rate  = 0.05
+num of hidden units = 100
+94.28 seconds
+test accuracy = 72.48
+train accuracy = 76.92
+number of iterations = 13
+
+
+(learning rate = 0.05 / sqrt(t))
+num of hidden units = 100
+14.28 seconds
+test accuracy = 69.74
+train accuracy = 66.17
+number of iterations = 2
+
+>> nn
+Undefined function or variable 'nn'.
+ 
+>> nn
+
+cost =
+
+    0.2030
+
+
+cost =
+
+    0.1866
+
+
+cost =
+
+    0.1856
+
+
+cost =
+
+    0.1828
+
+
+cost =
+
+    0.1818
+
+
+cost =
+
+    0.1802
+
+
+cost =
+
+    0.1748
+
+
+cost =
+
+    0.1702
+
+
+cost =
+
+    0.1663
+
+
+cost =
+
+    0.1634
+
+
+cost =
+
+    0.1621
+
+
+cost =
+
+    0.1620
+
+
+cost =
+
+    0.1626
+
+Elapsed time is 94.258513 seconds.
+
+trainAccuracy =
+
+    0.7692
+
+
+testAccuracy =
+
+    0.7248
+
+>> sqrt(2)
+
+ans =
+
+    1.4142
+
+>> nn
+
+cost =
+
+    0.1907
+
+
+cost =
+
+    0.2118
+
+Elapsed time is 14.732169 seconds.
+
+trainAccuracy =
+
+    0.7009
+
+
+testAccuracy =
+
+    0.6588
+
+>> nn
+
+cost =
+
+    0.1966
+
+
+cost =
+
+    0.1830
+
+
+cost =
+
+    0.2097
+
+Elapsed time is 21.554642 seconds.
+
+trainAccuracy =
+
+    0.7191
+
+
+testAccuracy =
+
+    0.6717
+
+>> nn
+
+cost =
+
+    0.1929
+
+
+cost =
+
+    0.1812
+
+
+cost =
+
+    0.1931
+
+Elapsed time is 21.268091 seconds.
+
+trainAccuracy =
+
+    0.7301
+
+
+testAccuracy =
+
+    0.6728
+
+>> nn
+
+cost =
+
+    0.1996
+
+
+cost =
+
+    0.1890
+
+
+cost =
+
+    0.2277
+
+Elapsed time is 21.333830 seconds.
+
+trainAccuracy =
+
+    0.7010
+
+
+testAccuracy =
+
+    0.6671
+
+>> nn
+
+cost =
+
+    0.1904
+
+
+cost =
+
+    0.2133
+
+Elapsed time is 14.388405 seconds.
+
+trainAccuracy =
+
+    0.6974
+
+
+testAccuracy =
+
+    0.6617
+
+>> nn
+Error: File: nn.m Line: 34 Column: 10
+The expression to the left of the equals sign is not a valid target for an assignment.
+ 
+>> nn
+Error: File: nn.m Line: 35 Column: 10
+The expression to the left of the equals sign is not a valid target for an assignment.
+ 
+>> nn
+Error: File: nn.m Line: 35 Column: 10
+The expression to the left of the equals sign is not a valid target for an assignment.
+ 
+>> nn
+
+numHidden =
+
+    50
+
+
+testAccuracy =
+
+    0.6802
+
+
+numHidden =
+
+   100
+
+
+testAccuracy =
+
+    0.6759
+
+
+numHidden =
+
+   150
+
+
+testAccuracy =
+
+    0.6589
+
+
+numHidden =
+
+   200
+
+
+testAccuracy =
+
+    0.6662
+
+
+numHidden =
+
+   250
+
+
+testAccuracy =
+
+    0.6940
+
+
+numHidden =
+
+   300
+
+
+testAccuracy =
+
+    0.6548
+
+
+numHidden =
+
+   350
+
+
+testAccuracy =
+
+    0.6648
+
+
+numHidden =
+
+   400
+
+
+testAccuracy =
+
+    0.6804
+
+
+numHidden =
+
+   450
+
+
+testAccuracy =
+
+    0.6683
+
+
+numHidden =
+
+   500
+
+
+testAccuracy =
+
+    0.5694
+
+
+numHidden =
+
+   550
+
+Elapsed time is 411.650647 seconds.
+

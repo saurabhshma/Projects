@@ -1,0 +1,1 @@
+This directory contains implementation of public key distribution server that provides the public keys of the clients securely over a network channel.

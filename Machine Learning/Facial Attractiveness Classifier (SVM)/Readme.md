@@ -1,0 +1,1 @@
+This directory contains a facial attractiveness classifier created using Support Vector Machines, and comparison of Linear kernel results with Gaussian kernel results

@@ -1,0 +1,1 @@
+This directory contains the implementaion of decision tree for the classification of forest covertype data set. Comparison of pruned and non-pruned tree is also there.

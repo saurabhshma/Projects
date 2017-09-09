@@ -1,0 +1,1 @@
+In this project, I've applied Principal Component Analysis from first principles for the purpose of dimensionality reduction to built face recognition engine.

@@ -1,0 +1,1 @@
+In this project, I've developed an artificial neural network from first principles with one hidden layer to predict the final outcome of connect-4 board game from an intermediate board configuration.
